@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+
+.zx{
+    width: 100%;
+    background-color: #edf2f7;
+    padding-top: 50px;
+    height: 100vh;
+}
+.zx1{
+    padding-top: 40px ;
+    background-color: white;
+    width: 80%;
+    height: 80vh ;
+    margin: 0px 10%;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+.zx2 a:hover{
+    color: red;
+}
+.zx2 h1{
+    padding: 20px 0px 0px 30px ;
+}
+.zx2 p{
+    padding: 20px 0px 0px 30px ;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.vinod {
+    background-color: #f0f5fa;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.vinod1 {
+    width: 40%;
+    padding-left: 30px;
+}
+
+.vinod2 {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+}
+
+.vinod2 a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.e {
+ background-color: #f0f5fa;
+    height: 100px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
