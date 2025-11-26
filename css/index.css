@@ -3,7 +3,10 @@
     padding: 0%;
 }
 
-
+.swiper {
+  width: 600px;
+  height: 300px;
+}
 .rohit {
     background-color: white;
     width: 100%;
